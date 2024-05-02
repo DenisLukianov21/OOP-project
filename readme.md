@@ -26,7 +26,3 @@ pip install -r requirements.txt
 ## Contributing
 
 If you'd like to contribute to this project, please fork the repository and submit a pull request. We'd love to see what you can do!
-
-## License
-
-This project is licensed under the [insert license here] License - see the LICENSE.md file for details
